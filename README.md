@@ -1,4 +1,4 @@
-# Example Discord Bot (Python)
+# Arix bot discord
 
 Quick example showing a minimal bot using `discord.py` and `python-dotenv`.
 
@@ -90,3 +90,4 @@ curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-pre
 
 Security
 - Never commit API keys to source control. Use server-side environment variables or secret managers for production.
+
